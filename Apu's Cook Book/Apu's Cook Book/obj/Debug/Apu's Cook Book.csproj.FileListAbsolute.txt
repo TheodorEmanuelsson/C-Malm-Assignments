@@ -1,0 +1,11 @@
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu's Cook Book.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu_s_Cook_Book.FormIngredient.resources
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu_s_Cook_Book.MainForm.resources
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu_s_Cook_Book.Properties.Resources.resources
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu's Cook Book.csproj.GenerateResource.cache
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu's Cook Book.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\bin\Debug\Apu's Cook Book.exe.config
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\bin\Debug\Apu's Cook Book.exe
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\bin\Debug\Apu's Cook Book.pdb
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu's Cook Book.exe
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A4\Apu's Cook Book\Apu's Cook Book\obj\Debug\Apu's Cook Book.pdb

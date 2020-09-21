@@ -1,0 +1,11 @@
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer Registry V1.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer_Registry_V1.ContactForm.resources
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer_Registry_V1.Properties.Resources.resources
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer Registry V1.csproj.GenerateResource.cache
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer Registry V1.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\bin\Debug\Customer Registry V1.exe.config
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\bin\Debug\Customer Registry V1.exe
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\bin\Debug\Customer Registry V1.pdb
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer Registry V1.exe
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer Registry V1.pdb
+C:\Users\Theo\Desktop\C# Programmeringsuppgifter\A5\Customer Registry V1\Customer Registry V1\obj\Debug\Customer_Registry_V1.MainForm.resources
